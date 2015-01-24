@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Woodstock\AndroidStudioProjects\HolaWorld\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Woodstock\AndroidStudioProjects\HolaWorld\app\build\intermediates\pre-dexed\debug\classes-1a8278b6b4fc1610c249dd87f4ffe51f07fe85ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\Woodstock\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Woodstock\AndroidStudioProjects\HolaWorld\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-3a5e81d5c9e76165943389822a0bedacddc9bad2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Woodstock\AndroidStudioProjects\HolaWorld\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Woodstock\AndroidStudioProjects\HolaWorld\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-5b5c937011adda9dccf6c220002c6a597c2d9fbd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Woodstock\AndroidStudioProjects\HolaWorld\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Woodstock\AndroidStudioProjects\HolaWorld\app\build\intermediates\pre-dexed\debug\classes-816a79438ad3caeb539dcd124194d6d54a5dfa82.jar" />
+    </item>
+
+</items>

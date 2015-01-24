@@ -1,0 +1,5 @@
+C:\Users\Woodstock\AndroidStudioProjects\HolaWorld\app\build\intermediates\classes\debug
+C:\Users\Woodstock\AndroidStudioProjects\HolaWorld\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-3a5e81d5c9e76165943389822a0bedacddc9bad2.jar
+C:\Users\Woodstock\AndroidStudioProjects\HolaWorld\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-5b5c937011adda9dccf6c220002c6a597c2d9fbd.jar
+C:\Users\Woodstock\AndroidStudioProjects\HolaWorld\app\build\intermediates\pre-dexed\debug\classes-816a79438ad3caeb539dcd124194d6d54a5dfa82.jar
+C:\Users\Woodstock\AndroidStudioProjects\HolaWorld\app\build\intermediates\pre-dexed\debug\classes-1a8278b6b4fc1610c249dd87f4ffe51f07fe85ad.jar
